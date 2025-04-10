@@ -1,0 +1,6 @@
+@HireSync_HostAddress = http://localhost:5029
+
+GET {{HireSync_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
